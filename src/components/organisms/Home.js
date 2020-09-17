@@ -18,6 +18,7 @@ const Title = styled.p`
 	letter-spacing: 3px;
 	margin-bottom: 48px;
 	font-size: 5rem;
+	text-align: center;
 `;
 
 function Home() {
